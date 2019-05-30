@@ -81,7 +81,7 @@ RUN npm install --save --save-exact jsreport-ejs \
         jsreport-electron-pdf \
         phantomjs-exact-2-1-1 \
         lodash \
-        momemnt \
+        moment \
         handlebars-helpers \
     && \
     npm cache clean -f && \
